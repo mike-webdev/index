@@ -747,11 +747,11 @@ section {
 }
 
 .services .icon-box:hover {
-  border-color: #ffb727;
+  border-color: #00b8ff;
 }
 
 .services .icon-box:hover .title a {
-  color: #ffb727;
+  color: #00b8ff;
 }
 
 /*--------------------------------------------------------------
