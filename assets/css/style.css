@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #ffc550;
+  background: #00b8ff;
   color: #fff;
 }
 
@@ -551,7 +551,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #ffb727;
+  color: #049ad4;
 }
 
 .about .content .count-box {
@@ -1124,7 +1124,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #ffc85a;
+  background: #049ad4;
 }
 
 .pricing .featured h3 {
@@ -1197,8 +1197,8 @@ section {
 
 .contact .social-links a:hover {
   color: #fff;
-  border-color: #ffb727;
-  background: #ffb727;
+  border-color: #049ad4;
+  background: #049ad4;
 }
 
 .contact .php-email-form {
