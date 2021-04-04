@@ -159,6 +159,8 @@
     items: 1
   });
 
+  
+
   // Porfolio isotope and filter
   $(window).on('load', function() {
     var portfolioIsotope = $('.portfolio-container').isotope({
