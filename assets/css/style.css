@@ -635,7 +635,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-image: linear-gradient(to right,#00b8ff, #ffffff);
+  background-image: linear-gradient(to right,#00b8ff, #00729e);
 }
 
 /*--------------------------------------------------------------
